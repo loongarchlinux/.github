@@ -1,6 +1,6 @@
 # Loong Arch Linux
 
-Loong Arch Linux 是龙架构 Archlinux 发行版，可在使用了龙芯 3A5000/3C5000(L) CPU 的机器上运行，遵循 Arch 哲学，采用滚动升级模式，并保持尽力提供最新的稳定版软件。
+Loong Arch Linux 是龙架构(LoongArch) Archlinux 发行版，可在使用了龙芯 3A5000/3C5000(L) CPU 的机器上运行，遵循 Arch 哲学，采用滚动升级模式，并保持尽力提供最新的稳定版软件。
 
 ## 相关链接
 
