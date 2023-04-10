@@ -9,5 +9,6 @@ Loong Arch Linux 是龙架构(LoongArch) Archlinux 发行版，可在使用了�
 - livecd: https://bbs.loongarch.org/d/176-calamareslivecdarchlinux
 - Netboot: https://mirrors.wsyu.edu.cn/loongarch/archlinux/netboot/
 - qcow2 images：https://mirrors.wsyu.edu.cn/loongarch/archlinux/images/
+- docker: docker pull ghcr.io/loongarchlinux/archlinux:latest
 - 论坛： https://bbs.loongarch.org/t/archlinux-distro
 - 安装参考：https://bbs.loongarch.org/d/88-archlinux
