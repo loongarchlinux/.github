@@ -5,6 +5,7 @@ It can run on machines with Loongson 3A5000/3C5000(L) processors.
 
 ## Resource
 
+- repos： https://mirrors.wsyu.edu.cn/loongarch/archlinux/
 - iso： https://mirrors.wsyu.edu.cn/loongarch/archlinux/iso/latest/archlinux-loong64.iso
 - bootstrap: https://mirrors.wsyu.edu.cn/loongarch/archlinux/iso/latest/archlinux-bootstrap-loong64.tar.gz
 - livecd: https://bbs.loongarch.org/d/176-calamareslivecdarchlinux
