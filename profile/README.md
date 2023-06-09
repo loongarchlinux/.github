@@ -1,7 +1,6 @@
 # Loong Arch Linux
 
-Loong Arch Linux is an ArchLinux distribution developed for the LoongArch architecture that strives to provide the latest stable versions of most software by following a rolling release model.
-It can run on machines with Loongson 3A5000/3C5000(L) processors.
+Loong Arch Linux, an ArchLinux distribution ported for the LoongArch architecture, strives to provide the latest stable versions of most software by following a rolling release model. It can run on machines with Loongson 3A5000/3C5000(L) processors.
 
 ## Resource
 
