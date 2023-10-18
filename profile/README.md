@@ -11,5 +11,5 @@ Loong Arch Linux, an ArchLinux distribution ported for the LoongArch architectur
 - Netboot: https://loongarchlinux.org/pages/netboot/
 - VM images：https://loongarchlinux.org/pages/vmrun/
 - Docker: `$ docker pull ghcr.io/loongarchlinux/archlinux:latest`
-- Install: https://loongarchlinux.org/pages/install/
+- Install Guide: https://loongarchlinux.org/pages/install/
 - Forum: https://bbs.loongarch.org/t/archlinux-distro
