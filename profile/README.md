@@ -10,6 +10,6 @@ Loong Arch Linux, an ArchLinux distribution ported for the LoongArch architectur
 - LiveCD: https://mirrors.wsyu.edu.cn/loongarch/archlinux/iso/latest/archlinux-livecd-loong64.iso
 - Netboot: https://loongarchlinux.org/pages/netboot/
 - VM images：https://loongarchlinux.org/pages/vmrun/
-- Docker: docker pull ghcr.io/loongarchlinux/archlinux:latest
+- Docker: `$ docker pull ghcr.io/loongarchlinux/archlinux:latest`
 - Install: https://loongarchlinux.org/pages/install/
 - Forum: https://bbs.loongarch.org/t/archlinux-distro
