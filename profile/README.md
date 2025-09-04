@@ -9,3 +9,4 @@ Loong Arch Linux, an Arch Linux distribution ported for the LoongArch architectu
 - ISO： [archlinux-loong64.iso](https://mirrors.wsyu.edu.cn/loongarch/archlinux/iso/latest/archlinux-loong64.iso)
 - Install Guide: https://loongarchlinux.org/pages/install/
 - Forum: https://www.loongbbs.cn/t/arch-linux
+- Migration Announcement (Chinese): [LoongBBS's Thread](https://www.loongbbs.cn/d/288-arch-linux-for-loong64-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%9720250706-20250719)
